@@ -1,8 +1,0 @@
-Duration: 30 minutes
-Language: Python
-Difficulty: Absolute Beginner
-Objective:
-
-Understand how competitive programming problems work
-Learn how to read input, process it, and produce correct output
-Solve your first real problem confidently
