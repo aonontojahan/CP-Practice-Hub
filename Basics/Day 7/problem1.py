@@ -1,0 +1,1 @@
+print("This is Problem 1 of Day 7.")
