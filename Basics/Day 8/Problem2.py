@@ -20,3 +20,5 @@ def divide_numbers():
 
 
 divide_numbers()
+
+print("End of the program.")
