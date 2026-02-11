@@ -4,3 +4,4 @@ if lst == lst[::-1]:
     print("Palindrome")
 else:
     print("Not Palindrome")
+print("Program is over")
