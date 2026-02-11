@@ -7,3 +7,4 @@ for item in lst:
 
 print(frequency)
 print("Program is over")
+print("This is a new line")
