@@ -97,3 +97,4 @@ while i < n:
 
 print("Total Valid Pairs:", pair_count)
 print("Total Unique Pairs:", pair_count // 2)
+print("Total Distinct Pairs:", pair_count // 4)
