@@ -37,3 +37,4 @@ while q > 0:
     q = q - 1
     
     print("Remaining Queries:", q)
+    print("========================")
