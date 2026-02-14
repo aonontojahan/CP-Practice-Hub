@@ -35,3 +35,5 @@ while q > 0:
 
     query_number = query_number + 1
     q = q - 1
+    
+    print("Remaining Queries:", q)
