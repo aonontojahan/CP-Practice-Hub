@@ -38,3 +38,4 @@ while q > 0:
     
     print("Remaining Queries:", q)
     print("=======================")
+    print("Next Query Number:", query_number)
