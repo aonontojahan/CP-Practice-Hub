@@ -45,4 +45,5 @@ else:
     print("Maximum Subarray Sum of size", k, "=", max_sum)
     print("==========================")
     print("End of Program")
+    print("Thank you for using the program!")
     
