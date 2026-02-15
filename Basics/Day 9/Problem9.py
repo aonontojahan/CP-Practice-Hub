@@ -48,4 +48,4 @@ else:
     print("Thank you for using the program!")
     print("Have a great day!")
     print("Goodbye!")
-    
+    print("================================")
