@@ -49,3 +49,4 @@ else:
     print("Have a great day!")
     print("Goodbye!")
     print("================================")
+    print("Final Maximum Sum:", max_sum)
