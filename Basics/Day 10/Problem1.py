@@ -42,3 +42,4 @@ while i < n:
 
 print("Total Subarrays with Sum", k, "=", count)
 print("==========================")
+print("Finding the sum of these subarrays...")
