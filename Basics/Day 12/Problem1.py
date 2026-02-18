@@ -29,3 +29,4 @@ while left <= right:
             right = mid - 1
 
 print("Result Index:", found_index)
+print("Result Value:", arr[found_index] if found_index != -1 else "Not Found")
