@@ -42,3 +42,4 @@ while left <= right:
     print("------------------------")
 
 print("Minimum Required Capacity:", answer)
+print("========================")
