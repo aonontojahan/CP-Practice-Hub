@@ -43,3 +43,4 @@ while left <= right:
 
 print("Minimum Required Capacity:", answer)
 print("========================")
+print("The sum of these weights is:", sum(weights))
