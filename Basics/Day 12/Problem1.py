@@ -18,3 +18,14 @@ while left <= right:
     print("Mid Value:", arr[mid])
     print("------------------------")
 
+    if arr[mid] == x:
+        found_index = mid
+        break
+
+    else:
+        if arr[mid] < x:
+            left = mid + 1
+        else:
+            right = mid - 1
+
+print("Result Index:", found_index)
