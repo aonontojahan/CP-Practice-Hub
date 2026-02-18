@@ -30,3 +30,4 @@ while left <= right:
 
 print("Result Index:", found_index)
 print("Result Value:", arr[found_index] if found_index != -1 else "Not Found")
+print("========================")
