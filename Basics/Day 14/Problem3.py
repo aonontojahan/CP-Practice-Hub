@@ -26,3 +26,4 @@ arr = list(map(int, input().split()))
 used = [False] * len(arr)
 
 generate_permutations(arr, used, [])
+print("Practicing CP Day 14")
