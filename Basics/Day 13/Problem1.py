@@ -27,3 +27,4 @@ num = int(input())
 
 answer = factorial(num)
 print("Final Answer:", answer)
+print("========================")
