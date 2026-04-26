@@ -9,7 +9,7 @@ The repository is structured to support consistent learning, performance optimiz
 
 ## Objectives
 - Strengthen problem-solving and analytical thinking.
-- Master data structures and algorithms
+- Master data structures and algorithms.
 - Write optimized and readable code
 - Prepare for coding competitions and technical interviews
 - Track learning progress in a structured manner
