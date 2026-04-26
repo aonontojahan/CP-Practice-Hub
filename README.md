@@ -55,7 +55,7 @@ This repository may include solutions and implementations related to:
 - Clean and readable code.
 - Meaningful variable and function names.
 - Optimized time and space complexity.
-- Proper comments where necessary
+- Proper comments where necessary.
 
 ---
 
