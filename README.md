@@ -12,7 +12,7 @@ The repository is structured to support consistent learning, performance optimiz
 - Master data structures and algorithms.
 - Write optimized and readable code.
 - Prepare for coding competitions and technical interviews.
-- Track learning progress in a structured manner
+- Track learning progress in a structured manner.
 
 ---
 
