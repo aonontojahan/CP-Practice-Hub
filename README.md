@@ -29,7 +29,7 @@ This repository may include solutions and implementations related to:
 - Graph Algorithms.
 - Dynamic Programming.
 - Greedy Algorithms. 
-- Bit Manipulation  
+- Bit Manipulation.
 - Mathematical Algorithms  
 
 ---
