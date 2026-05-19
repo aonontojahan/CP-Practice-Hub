@@ -27,7 +27,7 @@ This repository may include solutions and implementations related to:
 - Trees and Binary Search Trees.
 - Heaps and Priority Queues.
 - Graph Algorithms.
-- Dynamic Programming  
+- Dynamic Programming.
 - Greedy Algorithms  
 - Bit Manipulation  
 - Mathematical Algorithms  
