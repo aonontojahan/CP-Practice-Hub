@@ -30,7 +30,7 @@ This repository may include solutions and implementations related to:
 - Dynamic Programming.
 - Greedy Algorithms. 
 - Bit Manipulation.
-- Mathematical Algorithms  
+- Mathematical Algorithms.
 
 ---
 
