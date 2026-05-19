@@ -20,7 +20,7 @@ The repository is structured to support consistent learning, performance optimiz
 This repository may include solutions and implementations related to:
 
 - Arrays and Strings.
-- Recursion and Backtracking  
+- Recursion and Backtracking.
 - Searching and Sorting  
 - Linked Lists  
 - Stacks and Queues  
