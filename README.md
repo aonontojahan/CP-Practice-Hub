@@ -28,7 +28,7 @@ This repository may include solutions and implementations related to:
 - Heaps and Priority Queues.
 - Graph Algorithms.
 - Dynamic Programming.
-- Greedy Algorithms  
+- Greedy Algorithms. 
 - Bit Manipulation  
 - Mathematical Algorithms  
 
