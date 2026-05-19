@@ -23,7 +23,7 @@ This repository may include solutions and implementations related to:
 - Recursion and Backtracking.
 - Searching and Sorting.
 - Linked Lists.
-- Stacks and Queues  
+- Stacks and Queues.
 - Trees and Binary Search Trees  
 - Heaps and Priority Queues  
 - Graph Algorithms  
