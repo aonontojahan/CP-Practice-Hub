@@ -22,7 +22,7 @@ This repository may include solutions and implementations related to:
 - Arrays and Strings.
 - Recursion and Backtracking.
 - Searching and Sorting.
-- Linked Lists  
+- Linked Lists.
 - Stacks and Queues  
 - Trees and Binary Search Trees  
 - Heaps and Priority Queues  
