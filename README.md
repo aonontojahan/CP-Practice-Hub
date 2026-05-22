@@ -24,7 +24,7 @@ This repository may include solutions and implementations related to:
 - Searching and Sorting.
 - Linked Lists.
 - Stacks and Queues.
-- Trees and Binary Search Trees.
+- Trees and Binary Search Trees
 - Heaps and Priority Queues.
 - Graph Algorithms.
 - Dynamic Programming.
