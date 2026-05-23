@@ -36,7 +36,7 @@ This repository may include solutions and implementations related to:
 
 ## Platforms Covered
 - Codeforces.
-- LeetCode  
+- LeetCode.
 - CodeChef  
 - AtCoder  
 - HackerRank  
