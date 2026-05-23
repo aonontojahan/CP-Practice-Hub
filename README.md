@@ -37,7 +37,7 @@ This repository may include solutions and implementations related to:
 ## Platforms Covered
 - Codeforces.
 - LeetCode.
-- CodeChef  
+- CodeChef.
 - AtCoder  
 - HackerRank  
 - Other Online Judges  
