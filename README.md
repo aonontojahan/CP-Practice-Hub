@@ -39,7 +39,7 @@ This repository may include solutions and implementations related to:
 - LeetCode.
 - CodeChef.
 - AtCoder  
-- HackerRank  
+- HackerRank.
 - Other Online Judges  
 
 ---
